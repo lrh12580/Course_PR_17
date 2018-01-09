@@ -12,11 +12,20 @@ Deep Learning: [1](http://yangyan.li/downloads/Deep%20Learning_1.pptx) [2](http:
 
 [SVM](http://people.csail.mit.edu/dsontag/courses/ml14/slides/lecture2.pdf)
 
+[ICP](www.cs.tau.ac.il/~dcor/Graphics/adv-slides/ICP.ppt)
+
+[Feature Matching and RANSAC](https://people.cs.umass.edu/~elm/Teaching/ppt/370/370_10_RANSAC.pptx.pdf)
+
+Word2Vec: [1](https://cs224d.stanford.edu/lectures/CS224d-Lecture2.pdf) [2](https://cs224d.stanford.edu/lectures/CS224d-Lecture3.pdf)
+
+[GAN](http://dl.ee.cuhk.edu.hk/slides/gan.pdf)
+
+[Siamese](http://vision.ia.ac.cn/zh/senimar/reports/Siamese-Network-Architecture-and-Applications-in-Computer-Vision.pdf)
 
 ## Candidate Course Projects
 
 * Generating Image-based CAPTCHAs Resistant to Deep Learning Attacks
-* Expression-based Image Retrivial
+* Expression-based Image Retrivial - [Group 0](#group-0-pow48)
 * Most Promising Image Picking from an Image Sequence
 * Image to Text
 
@@ -38,10 +47,17 @@ Deep Learning: [1](http://yangyan.li/downloads/Deep%20Learning_1.pptx) [2](http:
 * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
 * [Dropout Training as Adaptive Regularization](https://arxiv.org/abs/1307.1493)
 
+### Generative Adversarial Network
+
+* [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396) - [Group 0](#group-0-pow48) Dec. 10
+* [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - [Group 0](#group-0-pow48) Dec. 10
+* [StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1710.10916) - [Group 0](#group-0-pow48) Dec. 10
+
 ## Experiments
 
 * [Experiment1](https://github.com/yangyanli/Course_PR_17/tree/master/experiment1) - Clustering
 * [Experiment2](https://github.com/yangyanli/Course_PR_17/tree/master/experiment2) - Classification
+* [Experiment3](https://github.com/yangyanli/Course_PR_17/tree/master/experiment3) - Solve MNIST in a non-neural-network or advanced deep learning method.
 
 
 ## Grouping Information
@@ -58,14 +74,12 @@ Deep Learning: [1](http://yangyan.li/downloads/Deep%20Learning_1.pptx) [2](http:
 
 ### Group 1
 
-| 组员   |
-| ---- |
-| 丰叶   |
-| 吴梦涵  |
-| 陈安东  |
-| 崔思伟  |
-| 袁冠宇  |
-| 孔世伟  |
+* 丰叶   
+* 吴梦涵  ([@RebeWu](https://github.com/RebeWu))
+* 陈安东  ([@debuggerchen](https://github.com/debuggerchen))
+* 崔思伟  ([@jncsw](https://github.com/jncsw))
+* 袁冠宇  ([@ygygyg111q](https://github.com/ygygyg111q))
+* 孔世伟  ([@softwinds](https://github.com/softwinds))
 
 ### Group 2
 
